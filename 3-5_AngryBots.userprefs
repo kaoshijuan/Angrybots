@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Movement\CameraControl.js">
+    <Files>
+      <File FileName="Assets\Scripts\AI\AI.js" Line="56" Column="3" />
+      <File FileName="Assets\Scripts\Movement\FreeMovementMotor.js" Line="35" Column="23" />
+      <File FileName="Assets\Scripts\Movement\Joystick.js" Line="15" Column="22" />
+      <File FileName="Assets\Scripts\Rain\RainBox.js" Line="6" Column="22" />
+      <File FileName="Assets\Scripts\Weapons\Health.js" Line="17" Column="34" />
+      <File FileName="Assets\Scripts\Movement\KamikazeMovementMotor.js" Line="4" Column="2" />
+      <File FileName="Assets\Scripts\Movement\CameraControl.js" Line="31" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
