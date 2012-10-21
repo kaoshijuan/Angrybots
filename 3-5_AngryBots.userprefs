@@ -1,14 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Movement\CameraControl.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Modules\SpawnAtCheckpoint.js">
     <Files>
-      <File FileName="Assets\Scripts\AI\AI.js" Line="56" Column="3" />
-      <File FileName="Assets\Scripts\Movement\FreeMovementMotor.js" Line="35" Column="23" />
-      <File FileName="Assets\Scripts\Movement\Joystick.js" Line="15" Column="22" />
-      <File FileName="Assets\Scripts\Rain\RainBox.js" Line="6" Column="22" />
-      <File FileName="Assets\Scripts\Weapons\Health.js" Line="17" Column="34" />
-      <File FileName="Assets\Scripts\Movement\KamikazeMovementMotor.js" Line="4" Column="2" />
-      <File FileName="Assets\Scripts\Movement\CameraControl.js" Line="31" Column="11" />
+      <File FileName="Assets\Scripts\Movement\PlayerMoveController.js" Line="232" Column="6" />
+      <File FileName="Assets\Scripts\Misc\ShowFps.js" Line="42" Column="6" />
+      <File FileName="Assets\Scripts\Misc\ShowValues.js" Line="31" Column="26" />
+      <File FileName="Assets\Scripts\Weapons\Health.js" Line="4" Column="31" />
+      <File FileName="Assets\Scripts\Misc\EndOfLevel.js" Line="22" Column="29" />
+      <File FileName="Assets\Scripts\Modules\SpawnAtCheckpoint.js" Line="16" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
